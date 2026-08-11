@@ -15,7 +15,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SuryanshOps&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&timezone=Asia/Kolkata)<br/>
+![](https://github-readme-stats.shion.dev/api?username=SuryanshOps&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&timezone=Asia/Kolkata&v=101)<br/>
 ![](https://streak-stats.demolab.com/?user=SuryanshOps&theme=apprentice&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SuryanshOps&theme=apprentice&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
